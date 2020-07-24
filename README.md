@@ -4,6 +4,7 @@ This is an analysis and predictions of football matches using the world fifa ran
 
 ## Description
 This project contains 3 predictive models created using python and it's libraries to:
+
 i.) Predict how many goals the home team scores.
 
 ii.) Predict how many goals the away team scores.
